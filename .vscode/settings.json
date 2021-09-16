@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "jestrunner.debugOptions": {},
+    "jestrunner.runOptions": [
+        "--config jest.config.ts",
+        "--coverage"
+    ],
+}
